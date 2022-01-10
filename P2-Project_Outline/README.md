@@ -7,12 +7,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The basis of our project is to create a web app store for the fantasy table top game Dungeons and Dragons. The interface will have 2 different interfaces for the playes and dungeon master. The player facing interface will show location and the various shops located their by specialty. When a specific shop is selected it will then populate the list of items selected by the DM to be available. Each player will have a unique profile with inventory including items and currency. When an item is purchased the price will be dedicted from the players wallet and an instance of the item will be generated into their inventory while being subtracted from the total available in the store. DMs have access to all player profiles and determine what items and how many are available in each store.
 ### Features
-Include Features here
+Selectable shop
+Profiles with Inventory tracking
+Search
+Personal Access Codes
 ### Technologies
-Include Technologies here
+JS, React, C#
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'm very weak on SQL att he moment and need to brush up on the backend
 ### Project Tracker
-Link to your Trello board here
+Lihttps://trello.com/b/nvMcIMVz/dm-storefront
